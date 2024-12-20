@@ -1,4 +1,5 @@
-Real-Time Multi-Client Chat Application
+Real-Time Multi-Client Chat Application,
+
 Chat Application with Direct Messaging Feature
 This is a simple, multi-client chat application built using Python’s socket and threading libraries. The application supports real-time communication between multiple clients connected to a central server. The server handles client connections, broadcasts messages to all clients, and also supports direct messaging between users.
 
